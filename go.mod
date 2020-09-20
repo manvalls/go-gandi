@@ -1,4 +1,4 @@
-module github.com/go-gandi/go-gandi
+module github.com/manvalls/go-gandi
 
 go 1.13
 

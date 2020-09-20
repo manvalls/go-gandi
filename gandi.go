@@ -1,8 +1,8 @@
 package gandi
 
 import (
-	"github.com/go-gandi/go-gandi/domain"
-	"github.com/go-gandi/go-gandi/livedns"
+	"github.com/manvalls/go-gandi/domain"
+	"github.com/manvalls/go-gandi/livedns"
 )
 
 // Config manages common config for all Gandi API types
